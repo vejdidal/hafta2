@@ -1,0 +1,2 @@
+Hafta 2: Üç farklı bash script yazdım. İlkinde kullanıcıdan iki sayı alıp toplamını hesapladım. İkincisinde kullanıcıdan site adı alarak ping komutu kullandım. 
+Üçüncüsünde ise kullanıcı bilgileri ve notlarını alıp basit bir ortalama hesapladım. Tüm scriptler başarıyla çalıştı.

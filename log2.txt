@@ -1,0 +1,3 @@
+2025-03-20 15:00 - Kullanıcıdan iki sayı alınması ve toplamının hesaplanması sağlandı.
+2025-03-20 15:05 - Kullanıcıdan ping atılacak site adı istendi ve ping komutu çalıştırıldı.
+2025-03-20 15:10 - Kullanıcıdan isim, soyisim, vize ve final notları alındı, not ortalaması hesaplandı ve ekrana yazdırıldı.
